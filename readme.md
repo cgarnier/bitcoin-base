@@ -1,3 +1,3 @@
 # bitcoin base
 
-> Minimal bitcoin forks requirements
+> Image with minimal bitcoin forks requirements
